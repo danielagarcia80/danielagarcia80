@@ -53,6 +53,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/danielagarcia80/danielagarcia80/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/danielagarcia80/danielagarcia80/output/github-snake.svg" alt="GitHub Snake animation" />
+
 
 ###
