@@ -2,8 +2,6 @@
 
 ###
 
-<h3 align="left">Tech Stack</h3>
-
 ###
 
 <div align="left">
