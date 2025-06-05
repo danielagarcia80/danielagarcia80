@@ -1,4 +1,4 @@
-<p align="left">👋 Hi, I’m Daniela, a Computer Engineer focused on writing efficient code and building systems that work at scale. I enjoy tackling real-world problems with practical solutions. When I’m not coding, I’m likely exploring new tools or swimming. Let’s connect!</p>
+<p align="left">👋 Hi, I’m Daniela, a Full Stack Engineer focused on writing efficient code and building systems that work at scale. I enjoy tackling real-world problems with practical solutions. When I’m not coding, I’m likely exploring new tools or swimming. Let’s connect!</p>
 
 ###
 
